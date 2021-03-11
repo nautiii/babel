@@ -1,0 +1,5 @@
+#!/bin/bash
+
+rm -rf babel_server
+rm -rf babel_client
+rm -rf babel.db
